@@ -1,6 +1,8 @@
 # .NET_Core_REST_API
 [CommanderApi]
+
 Site Link: commanderapi.eastus.azurecontainer.io
+
 **The purpose building this API is to apply concepts and code related to:**
 
 **[HttpGet] reads the resources and returns a "200 Ok" sucess status code, and a "400 Bad Request" and "404 Not Found" failure status codes.**
