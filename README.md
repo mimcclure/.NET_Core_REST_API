@@ -3,7 +3,7 @@
 Site Link: commanderapi.eastus.azurecontainer.io
 **The purpose building this API is to apply concepts and code related to:**
 
-**[HttpGet] reads the resources and returns a "200 Ok" sucess status code, and a "400 Bad Request" and "404 Not Found" failure status codes. **
+**[HttpGet] reads the resources and returns a "200 Ok" sucess status code, and a "400 Bad Request" and "404 Not Found" failure status codes.**
 
 ![HttpGet](https://user-images.githubusercontent.com/77661117/154824264-c8ee00bd-9db6-4e85-affe-c7057d36361b.png)
 
