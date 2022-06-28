@@ -17,9 +17,11 @@ Site Link: commanderapi.eastus.azurecontainer.io (If the site is down, it is bec
 
 ![image](https://user-images.githubusercontent.com/77661117/176105298-82087f31-efb5-4d03-b227-6557482417fe.png)
 
-**Endpoints in Postman:**
+**API End Points:**
 
 ![image](https://user-images.githubusercontent.com/77661117/176108672-1e6aa1be-20ae-44d5-a351-9655f80dba2d.png)
+
+**End points using Postman**
 
 [HttpGet] reads a resource(s) and returns a "200 OK" sucess status code, and a "400 Bad Request" and "404 Not Found" failure status codes.
 
