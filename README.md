@@ -5,6 +5,9 @@ Site Link: commanderapi.eastus.azurecontainer.io
 
 **The purpose building this API is to apply concepts and code related to:**
 
+**Application Architecture**
+![image](https://user-images.githubusercontent.com/77661117/176105298-82087f31-efb5-4d03-b227-6557482417fe.png)
+
 **[HttpGet] reads the resources and returns a "200 Ok" sucess status code, and a "400 Bad Request" and "404 Not Found" failure status codes.**
 
 ![HttpGet](https://user-images.githubusercontent.com/77661117/154824264-c8ee00bd-9db6-4e85-affe-c7057d36361b.png)
