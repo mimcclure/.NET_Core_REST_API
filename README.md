@@ -9,7 +9,7 @@ Site Link: commanderapi.eastus.azurecontainer.io (If the site is down, it is bec
 - MVC Architectural Pattern
 - C#
 - SQL Server Express & SSMS
-- Entity Framework Core Object Relation Mapper(DBContext and Migration)
+- Entity Framework Core Object Relation Mapper (DB Context and Migration)
 - Data Transfer Objects and AutoMapper
 - REST API guidelines
 - HTTP/S (GET,POST,PUT,PATCH,DELETE, status codes, CRUD Operations) tested with Postman
