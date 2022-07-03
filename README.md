@@ -4,14 +4,14 @@
 Site Link: commanderapi.eastus.azurecontainer.io (If the site is down, it is because I ran out of Microsoft Azure credits)
 
 **The purpose building this API is to employ concepts and code related to:**
---.NET Core
---MVC Architectural Pattern
---C#
---SQL Server Express & SSMS
---Entity Framework Core Object Relation Mapper(DBContext and Migration)
---Data Transfer Objects and AutoMapper
---REST API guidelines
---HTTP/S (GET,POST,PUT,PATCH,DELETE, status codes, CRUD Operations) tested with Postman
+- .NET Core
+- MVC Architectural Pattern
+- C#
+- SQL Server Express & SSMS
+- Entity Framework Core Object Relation Mapper(DBContext and Migration)
+- Data Transfer Objects and AutoMapper
+- REST API guidelines
+- HTTP/S (GET,POST,PUT,PATCH,DELETE, status codes, CRUD Operations) tested with Postman
 
 **Application Architecture:**
 
