@@ -5,6 +5,7 @@ Site Link: commanderapi.eastus.azurecontainer.io (If the site is down, it is bec
 
 **The purpose building this API is to employ concepts and code related to:**
 - .NET Core
+- Repository Pattern
 - MVC Architectural Pattern
 - C#
 - SQL Server Express & SSMS
