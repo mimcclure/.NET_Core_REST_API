@@ -13,6 +13,7 @@ Site Link: commanderapi.eastus.azurecontainer.io (If the site is down, it is bec
 - Data Transfer Objects and AutoMapper
 - REST API guidelines
 - HTTP/S (GET,POST,PUT,PATCH,DELETE, status codes, CRUD Operations) tested with Postman
+- Microsoft Azure for deployment
 
 **Application Architecture:**
 
