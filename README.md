@@ -7,6 +7,7 @@ Site Link: commanderapi.eastus.azurecontainer.io (If the site is down, it is bec
 - .NET Core
 - Repository Pattern
 - MVC Architectural Pattern
+- Dependency Injections
 - C#
 - SQL Server Express & SSMS
 - Entity Framework Core Object Relation Mapper (DB Context and Migration)
